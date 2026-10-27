@@ -2,28 +2,40 @@ name: Update IPTV playlist
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"   # 每小时启动一次；每次运行内部每 3 分钟更新一次
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# 同一时间只跑一个，后一个排队等待，不会互相打断
+concurrency:
+  group: update-playlist
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - name: Convert JSON to M3U
-        run: python convert.py
-      - name: Commit updated playlist
+      - name: Convert JSON to M3U every 3 minutes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add korea-live.m3u
-          if ! git diff --cached --quiet; then
-            git commit -m "Update korea-live.m3u"
-            git push
-          fi
+          END=$((SECONDS + 57*60))
+          while true; do
+            # 拉取失败时 convert.py 不会改动旧文件，下一轮再试
+            python convert.py || echo "fetch failed, keeping old playlist"
+            git add korea-live.m3u
+            if ! git diff --cached --quiet; then
+              git commit -m "Update korea-live.m3u"
+              git pull --rebase -q origin "$GITHUB_REF_NAME" || true
+              git push || true
+            fi
+            [ "$SECONDS" -ge "$END" ] && break
+            sleep 180
+          done

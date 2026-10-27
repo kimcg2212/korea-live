@@ -351,6 +351,8 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 tvg-name="YBTV-2 汉语综合频道" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/YBTV-2%E6%B1%89%E8%AF%AD.png" group-title="연변방송",YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 tvg-name="3+4! 최종회 26/10/27" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52210.jpg" group-title="드라마(다시보기)",3+4! 최종회 26/10/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/3+4!_최종회 26_10_27.m3u8
 #EXTINF:-1 tvg-name="연애박사 제7회 26/10/27" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52088.jpg" group-title="드라마(다시보기)",연애박사 제7회 26/10/27
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/연애박사_제7회 26_10_27.m3u8
 #EXTINF:-1 tvg-name="여름방학 제1회 26/10/27" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52093.jpg" group-title="드라마(다시보기)",여름방학 제1회 26/10/27
@@ -449,8 +451,8 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/공감세포_최
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑을 처방해 드립니다_제50회 26_07_19.m3u8
 #EXTINF:-1 tvg-name="동궁 최종회 26/07/18" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51885.jpg" group-title="드라마(다시보기)",동궁 최종회 26/07/18
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/동궁_최종회 26_07_18.m3u8
-#EXTINF:-1 tvg-name="삼도천 택시 최종회 26/07/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51810.jpg" group-title="드라마(다시보기)",삼도천 택시 최종회 26/07/08
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/삼도천 택시_최종회 26_07_08.m3u8
+#EXTINF:-1 tvg-name="3+4! 제4회 26/10/27" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52210.jpg" group-title="드라마(다시보기)",3+4! 제4회 26/10/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/3+4!_제4회 26_10_27.m3u8
 #EXTINF:-1 tvg-name="연애박사 제6회 26/10/20" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52088.jpg" group-title="드라마(다시보기)",연애박사 제6회 26/10/20
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/연애박사_제6회 26_10_20.m3u8
 #EXTINF:-1 tvg-name="나의 유죄인간 제2회 26/10/20" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52091.jpg" group-title="드라마(다시보기)",나의 유죄인간 제2회 26/10/20
@@ -545,8 +547,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/공감세포_제
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑을 처방해 드립니다_제49회 26_07_18.m3u8
 #EXTINF:-1 tvg-name="동궁 제7회 26/07/18" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51885.jpg" group-title="드라마(다시보기)",동궁 제7회 26/07/18
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/동궁_제7회 26_07_18.m3u8
-#EXTINF:-1 tvg-name="삼도천 택시 제4회 26/07/02" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51810.jpg" group-title="드라마(다시보기)",삼도천 택시 제4회 26/07/02
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/삼도천 택시_제4회 26_07_02.m3u8
 #EXTINF:-1 tvg-name="우리들의 발라드 2 제4회 26/10/27" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52095.jpg" group-title="예능(다시보기)",우리들의 발라드 2 제4회 26/10/27
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/우리들의 발라드 2_제4회 26_10_27.m3u8
 #EXTINF:-1 tvg-name="말자쇼 제40회 26/10/26" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51210.jpg" group-title="예능(다시보기)",말자쇼 제40회 26/10/26

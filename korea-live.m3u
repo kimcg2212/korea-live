@@ -263,6 +263,8 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 tvg-name="YBTV-2 汉语综合频道" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/YBTV-2%E6%B1%89%E8%AF%AD.png" group-title="연변방송",YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 tvg-name="너에게 다이브 제11회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제11회 26/10/31
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제11회 26_10_31.m3u8
 #EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 제8회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 제8회 26/10/31
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_제8회 26_10_31.m3u8
 #EXTINF:-1 tvg-name="100일의 거짓말 제7회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52087.jpg" group-title="드라마(다시보기)",100일의 거짓말 제7회 26/10/31
@@ -297,8 +299,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/3+4!_최종회 2
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제2회 26_10_25.m3u8
 #EXTINF:-1 tvg-name="파이널 테이블 제2회 26/10/25" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52165.jpg" group-title="드라마(다시보기)",파이널 테이블 제2회 26/10/25
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제2회 26_10_25.m3u8
-#EXTINF:-1 tvg-name="너에게 다이브 제10회 26/10/25" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제10회 26/10/25
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제10회 26_10_25.m3u8
 #EXTINF:-1 tvg-name="소년, 주의 최종회 26/10/23" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52185.jpg" group-title="드라마(다시보기)",소년, 주의 최종회 26/10/23
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/소년, 주의_최종회 26_10_23.m3u8
 #EXTINF:-1 tvg-name="날아올라라 나비 제10회 26/10/18" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52039.jpg" group-title="드라마(다시보기)",날아올라라 나비 제10회 26/10/18
@@ -363,6 +363,8 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/내일도 출근
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/백화살_제35회 26_07_27.m3u8
 #EXTINF:-1 tvg-name="공감세포 최종회 26/07/26" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51853.jpg" group-title="드라마(다시보기)",공감세포 최종회 26/07/26
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/공감세포_최종회 26_07_26.m3u8
+#EXTINF:-1 tvg-name="너에게 다이브 제10회 26/10/25" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제10회 26/10/25
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제10회 26_10_25.m3u8
 #EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 제7회 26/10/30" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 제7회 26/10/30
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_제7회 26_10_30.m3u8
 #EXTINF:-1 tvg-name="100일의 거짓말 제6회 26/10/25" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52087.jpg" group-title="드라마(다시보기)",100일의 거짓말 제6회 26/10/25
@@ -395,8 +397,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/3+4!_제4회 26_
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제1회 26_10_24.m3u8
 #EXTINF:-1 tvg-name="파이널 테이블 제1회 26/10/24" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52165.jpg" group-title="드라마(다시보기)",파이널 테이블 제1회 26/10/24
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제1회 26_10_24.m3u8
-#EXTINF:-1 tvg-name="너에게 다이브 제9회 26/10/24" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제9회 26/10/24
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제9회 26_10_24.m3u8
 #EXTINF:-1 tvg-name="소년, 주의 제7회 26/10/23" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52185.jpg" group-title="드라마(다시보기)",소년, 주의 제7회 26/10/23
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/소년, 주의_제7회 26_10_23.m3u8
 #EXTINF:-1 tvg-name="날아올라라 나비 제9회 26/10/17" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52039.jpg" group-title="드라마(다시보기)",날아올라라 나비 제9회 26/10/17

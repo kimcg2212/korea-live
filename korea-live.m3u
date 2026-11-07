@@ -849,6 +849,8 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서프라이즈 
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/숨바꼭질 2 (SUMBAKKOKJIL 2)_제5회 26_10_04.m3u8
 #EXTINF:-1 tvg-name="속풀이쇼 동치미 제80회 26/10/24" tvg-logo="https://www.kdrama.pw/img/videos/200x285/50482.jpg" group-title="예능(다시보기)",속풀이쇼 동치미 제80회 26/10/24
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/속풀이쇼 동치미_제80회 26_10_24.m3u8
+#EXTINF:-1 tvg-name="킬링타임 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52264.jpg" group-title="영화",킬링타임 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/킬링타임_본편.m3u8
 #EXTINF:-1 tvg-name="시한부 1년, 남자를 사다 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52262.jpg" group-title="영화",시한부 1년, 남자를 사다 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/시한부 1년, 남자를 사다_본편.m3u8
 #EXTINF:-1 tvg-name="하트 오브 비스트 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52258.jpg" group-title="영화",하트 오브 비스트 본편
@@ -1047,8 +1049,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/첫사랑 엔딩
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그 겨울, 나는_본편.m3u8
 #EXTINF:-1 tvg-name="악마는 프라다를 입는다 2 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51842.jpg" group-title="영화",악마는 프라다를 입는다 2 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/악마는 프라다를 입는다 2_본편.m3u8
-#EXTINF:-1 tvg-name="아고라 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51832.jpg" group-title="영화",아고라 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아고라_본편.m3u8
 #EXTINF:-1 tvg-name="데드 캠프  (모음) 6 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52146.jpg" group-title="영화",데드 캠프  (모음) 6 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/데드 캠프  (모음)_6 본편.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1

@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-name="KBS1" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS1.png" group-title="한국-생방송",KBS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 #EXTVLCOPT:http-cookie=kbs1_replace_cookie
-http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
+https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a8531d5c1eb80e791db1d96030/01a0a85320b41eb80e791db1d96033/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTQ3MDAzNTEsInBhdGgiOiIvbzIifQ.3AUvng_rgfGeJ-3Blk8qUPh0zHvlhxyhRMhP-wOFx3s
 #EXTINF:-1 tvg-name="KBS2" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS2.png" group-title="한국-생방송",KBS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 #EXTVLCOPT:http-cookie=kbs2_replace_cookie
-http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
+https://tving-live-o2-skcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwMzYzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=MiSM~Ny0BzizL-akoQmNPmOIpNVXOfjLmyIplWn36ch78IIbNqXSGkv9~zytrmfK9HQVweugDCpnEPiqe3LKFqOuvo7E9hTItxTC2aq~aZRou7L92VBE~nTrvQKIL8t~MAV7yUO2q83y-mIVJf91cAFk9WpTaJYd44LpoJ4xs1APK4Zo6KoM9qjByXdscokugH4HRK6PnYuIMZI~5D5SGfpMkoQ3gI-VOz2jI2-jT2P9Nz7lcwGgc5jKr3lnIfoLzJd3AfdT-qV4otmtbAWm~Sx9XJD8~a0K8WKhI5d2L1y25v61CmVZREb7PmMvO~VWKLOGR8-Db117jfxJ25R6nA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 tvg-name="SBS" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBS.png" group-title="한국-생방송",SBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 #EXTVLCOPT:http-cookie=wave_sbs_cookie
@@ -14,7 +14,7 @@ http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBC.png" group-title="한국-생방송",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 #EXTVLCOPT:http-cookie=mbc_replace_cookie
-http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
+https://tving-live-o2-ktcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/aa0a5f249f0182eb15848d0905a4a3a8/dmMxX3N0cmVhbTMubTN1OA==/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwMzkwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Z22WptUu5U9JHu29qovfB2ZIrrr0RFtd0rKM~jnwrXle5EV4A4wMXsk3-Co8ess5nYbiC~2vriz00TLuscIJkS~Or1f~Fxx7WWMwE2rUhjNtjlk0c9zAKoX8Aj9GH25V~P0HNTklhDvkQCoAdxkyYA2ZiccS0OC6YQitKq-69kGyDxoH0HqihOhzPEY~55iDIeFnbG19TA9jCNBRRk8t4Q2LeRqDi~7hdrpriDA5gxEOXo7FULWTHanJekZi12DmemGhqyvQ~rGshaerT5rUPHmsqDy45eQs-Hqp4~CY7l1-E0UWLqqtXigOVMl7rvO1dD5pb7zkgaLWMYZcNLLSyQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 tvg-name="KBSWorld" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBSWORLD.jpg" group-title="한국-생방송",KBSWorld
 http://koreatv.dothome.co.kr/kbsworld.php
 #EXTINF:-1 tvg-name="KBSStory" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBSStory.png" group-title="한국-생방송",KBSStory
@@ -153,94 +153,6 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 #EXTINF:-1 tvg-name="백반기행" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%B0%B1%EB%B0%98%EA%B8%B0%ED%96%89.png" group-title="한국-생방송",백반기행
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
-#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/EBS2.png" group-title="한국-생방송",EBS2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMkkvMDAwMDAwMEUwNy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDE0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=fYaMzkbocsFYGQxzpySTDs778z6UhRPsKmVnJg~ieUapTkbVQik5SMD1Utvjb7-9ZI7Ctnz8J7-QlRUzuXHdATUrj5FJVhE3MqQtkLawu8R3k6u9huwhGihjWPO8jv4nWaMFUztsH1Uuw5j-v82OglirVpyVVHaeY1pMVEQej3Y_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/2I/0000000E07/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="MBCDrama" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCDrama.png" group-title="한국-생방송",MBCDrama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDQ0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=Z2u-qAyToyA30sKtLQcTmtXT1qaiSii8U7eBId9-OYjA2-jXrwAKLpUArJHtzJsYQMAWFR902~2errCQtwqe-7yeJzAOpSMRK--NAsXxNEGbFKvXYylUGxZVSphV5tR67lW-eGYPZBguznGEENBd2-1LVjlNcZdUNZPZtsPjn9Q_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M02/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="MBCEvery1" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCEvery1.jpg" group-title="한국-생방송",MBCEvery1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDQ3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=dFDu9~v7sOBD9NAhgrQGVKSzl~BK~jCKbk8QdocdLKlVuPry23ndVebwC3s3zZN~Gq636oLwK381t8mYiphrlOeIE2k~~ZytvTPovavDXMIaGIMjLQut0pqhc4nrwXFNFKBPWG7kpMylQGGnaKTO8UcKnpkCUXVpNJKLeLW~kUI_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M03/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="MBCM" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCM.png" group-title="한국-생방송",MBCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wNi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDQ5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=tHfeNvGXYiWQF2Y1w8sDG1uv5VIwoSzET5fDlL41~jVBKEmlnYpofXwJrafiVUP9DITBvCBFiAn1fj7xLoRF2Dx8nX4S7fJhGC-3DRgtkYkkiILPXXur0av5C-9Zk1hVZnSpX2W8XNMsXIdqqrYp7k2~z6m00CiAZdNmGPjZNLM_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M06/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="MBCON" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/MBCON.png" group-title="한국-생방송",MBCON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0xNC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDUxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=tMx0grod4FH4oJDfg8Ap1kM71BByKlU1nmxSTArAjnFNsBB0A1V-z72A-hjk6xdRr4TkCUwCXYuenPEOxI6HQjVzkqNOyUqwg1uYZU1QNy04S2dBEfIIFbtyGJ9iePk703Rsh5feNDkIHN~3jUvUIkDQTvkQQ8T0CE4IQCqSF2o_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M14/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="TheKPop" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Thekpop.jpg" group-title="한국-생방송",TheKPop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNUwvMDAwMDAwMFMxNC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDU4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=ZA5PgNsDWlcsuUGn5IDhfFKFF5ZV~tynlnTgksVOQbQpGxSaAzGZCD8yNNrguI-Qc-sJuKJw5BotEDXDQZsnNmZg3gm~~X8KD-60BikBiKsvZSDkZDww9ZWYa0Zkr6xsusLwb991OjbMJa-lCMdv-dddKe9G0rCuDIDUh0y5n94_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/5L/0000000S14/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="K-STAR" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Kstar.png" group-title="한국-생방송",K-STAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNDAvMDAwMDBGNjMwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDYxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=oMU6Xp2BBeTqeo5skhnbJgyEm9vyB22N3SqubMEqT6UEqy2jAt1~Fz~9X7vohONTMB-N22wEIA6ILnM0D2i3LsFS8Kbpeu~DX5-eMnn9AqbVuOLfDf6FBL2qA6IPk4yV-j~olw~rFutRDTjMljxQZEg4CBMTlwxtTHKu~YgRPDk_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/40/00000F6301/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="EBS 키즈" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/EBSKids.png" group-title="한국-생방송",EBS 키즈
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMkkvMDAwMDAwMEUwNS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDY4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=CwLCfhzLeer1APMazN7AqGAzmx1PiRt9ari~THBzbBJkfzNJawTshqeWIURUSeq-PG4vytwzUGnHXiUawpiw4KjZsKGLAWNhbvF-q8g6LylDxoPUaU3pIi-M1zuQkS6hu~I4ZM1ZgKbDiRhBAd-GhGHhBxaaIRB04FJNp3bz1V8_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/2I/0000000E05/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="ANIONE" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/Anione.png" group-title="한국-생방송",ANIONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNkYvMDAwMDBDNDQwMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDcwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=Sgqkk1R7kL6uGe4nTEe3L0FGX76Ja3KgRvH27A0JwC1Qfe7xTv1rtq~oDsDHHURtgEmzGF8yeGRjlzX7QQUfzCnFp88tMtYM8~Jbk6qz7SPegTjlyqJfiFs44S2rGWuTEvIQFPIMtCI3BmtB8gMHh5VPPwG02-6NQFRiw4B4L5Y_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/6F/00000C4402/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="브라보키즈" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/bravokids.png" group-title="한국-생방송",브라보키즈
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMTEvMDAwMDBDNjgwMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDczfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=A7rvvVHDC-1fkpMtBqjqoPAZzI4c6CyuHu1ADDO~pJ4VikxpgNt70Pv5rShzlw39Z-dbStfEol2HdRGMD3ZPKlkuUITmKKzeIUmC0wON~idVb2UpSfd3ZLIsmLMWQhOZ~QTSx4OcOHYj7J2zpoII3LOcq5Dw1EZ2foKo3CTwRIQ_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/11/00000C6802/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/CARTOONITO.png" group-title="한국-생방송",CARTOONITO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvSEwvMDAwMDBKMjgwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDc1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=CdeLq9tb-FgYsN7z5EZPl6ATrhu4MsH-RFBDSpUEqokihvu4CkDawu8i8XXKPisj5STOs-ebp6yrIf7VPOK~BuJw65D7u3T9TN8L0tUrP-t10eEqpYPh0x6QXee0Oy77FQmCNdmrIaLSNt44BclJxCoPQ7VbZHPbVN2mT~OOekA_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/HL/00000J2801/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="SBSBiz" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSBiz.png" group-title="한국-생방송",SBSBiz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNUwvMDAwMDAwMFMwNi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDc3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=fZfXBqUwDqCzq1wjXRyNaH-naRh9E3U4SjM0sHnEwsEN5llm73eLbOBHjqi7wxV94E5ZB64otY2E6u5T9TAJISTdVee9cPnWnyIgS-7fER91~N3Opk0xyvb3gXOai9O1EcFkzPHGtaUwmIfT26wDa8xsJyOP4wQPCg2Not~Q5UQ_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/5L/0000000S06/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="매일경제TV" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A7%A4%EC%9D%BC%EA%B2%BD%EC%A0%9CTV.png" group-title="한국-생방송",매일경제TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjEvMDAwMDBGMjAwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDgwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=uOQXDQtXfVmjE9NAIIflbPp2ixg7jmdf8imDpWPehPVff6gLemP8v1Gpo98Qqo3mjh89UQgGGDGpnzpJk812WWnLD~XPyROmAQ7lPmrTaLnrfF0TbwDitIa2-Hur8Q1CB6ysvcSCAabR6G3S4o2w6z-8IM8TtRUZtsJShAHuGP8_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/61/00000F2001/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="한국경제TV" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9CTV.png" group-title="한국-생방송",한국경제TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMzMvMDAwMDBGMjEwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDgyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=pHtnvHN98tdimvxhKscwka-LuFAdw-MOHfosc4ubijfpiX9IBJXSpKyMG8Ev4lCQbdTUqS-bimWVkdcBXKnm98qm1-THS8k~bsupyDvmPFSpwuBgq-Ve4QSejfE24~p31FvU2nYIl0i~bozBijzTFky07D1JcPbYMii16JziPaM_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/33/00000F2101/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="머니투데이방송" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A8%B8%EB%8B%88%ED%88%AC%EB%8D%B0%EC%9D%B4%EB%B0%A9%EC%86%A1.jpg" group-title="한국-생방송",머니투데이방송
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNkYvMDAwMDBDNDQwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDg0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=ZPtcnUXgYpQ9uC2M9HWEW6Y9GqAb1UqXr9dQnkIfQpzVRG66j1tL1tGSk0mvA56gRFLD6JwaoBjp-l~qZzd91AwIdLMNgJKytlCpYbZFW~siTIBvqHRjtrba2oJHhd1ltmkAWwUyzEN-ynb2IYHw6DUVC8fq8G1htbazfVjRf~I_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/6F/00000C4401/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="현대홈쇼핑" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91.png" group-title="한국-생방송",현대홈쇼핑
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjQvMDAwMDBDNDEwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDg3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=qgB6wmz~sEYY~CMsC6r3j4lWl7p7fueBa0bo9AxuwHSoiiu0yoBQG3uwSrRMhbujhZZSNfCiUrdHkZ8-d~w5WpSCEVaBMrrAZnMfhj20qpEgNvOmcMadlpoIqeOCp3o~dZuQSmWegdvsMiWzK~7CckBBrpSureq0Zf8tZ6dP0y4_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/64/00000C4101/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="롯데홈쇼핑" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%A1%AF%EB%8D%B0%ED%99%88%EC%87%BC%ED%95%91.png" group-title="한국-생방송",롯데홈쇼핑
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjYvMDAwMDBDNTYwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDg5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=i41ZhXWk5imqZpo5-kVVamFrNOLJM8Ou~J4hQsovJvY--OXGMkKt1u2lmbIi5WtWAMfBedAh288Ke56SSIWLcPm4EuP9vU1fFMdGucPmsmEeKSqTdz7ykoXN~Atc-uHsMlXHIOwM266EqaaTxUmSI97EJZbYXjjTMNPh7yPQ6wQ_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/66/00000C5601/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="GS SHOP" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/GS%20SHOP.png" group-title="한국-생방송",GS SHOP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjMvMDAwMDBDNDIwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDkyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=MbznG~Rr7~CovGVBw-shOLB0zRU91z87S99wdszEbweOUohoX5VoHnxOQdaz8URAjK5s2arbBj8q-BZC42gdlYQnq~WESs98tTC-cpp~fLjLytjVeOiOHO-LakjPy7xkTzwGbWmYz15CdSEMewCFx6rkNVznl6MekSXuaFID-8g_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/63/00000C4201/SDR_AVC-HD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="NS홈쇼핑" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/NS%ED%99%88%EC%87%BC%ED%95%91.png" group-title="한국-생방송",NS홈쇼핑
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNjUvMDAwMDBDODMwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDk0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=OdXhsSj9OkQbV18igVJ261mjRHGFjsCRjMrI9dxmuRodxPlv0rritT4uhLEse00wiSYoKg1DLQetBgfwaxP8m1yMj3UEd8BKpRpGeY16Uz2l0UAtmYyLTNQ83wVULNJ66kS7poI3-Q~dKMfCaLEIcCei2goEo8OjrChszSBbd8M_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/65/00000C8301/SDR_AVC-FHD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="1박 2일" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/1%EB%B0%95%202%EC%9D%BC.png" group-title="한국-생방송",1박 2일
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNFkvMDAwMDAwMEsxNS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NDk5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=IKmWwWtDNmgB2IUTamERPGXbbdGmUPMQ613WUb4NVj4bb4nZfYeOJtItRatGdhUI0JA5jzSvQ8FBt9WohBc6T~JNzuWoQlHDW0ACHgEor1e5IfCo2clGPXon8FiMNNN4JrttXFN01vbU3VVfp90iIdxsjFE7lcLs8E9GsqBqmP4_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/4Y/0000000K15/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="라디오스타" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%9D%BC%EB%94%94%EC%98%A4%EC%8A%A4%ED%83%80.png" group-title="한국-생방송",라디오스타
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0xMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NTAxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=G63RUApI61IUw~WwF9-LucNGA~hn5flC2mpvtdZIJW~4fh6JWabjszykQmDqqT69qhdzAJsQSYjfIJWoco166hBHM0vcKmeRdE80SBf8xqTOKeQ3up2F4cXddiltOTvla5iljGIxPwQTNUcNazc9MmHBAgp2qsfNNvk4vG16ETs_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M12/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
-#EXTINF:-1 tvg-name="나 혼자 산다" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4.png" group-title="한국-생방송",나 혼자 산다
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwMFBNMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0Njk4NTAzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=bGaVj3jPnePs8~98WAuDEuAtjlkKQK3CqYK4k46aibj79ltGMdwkVBhCj9fnKLNOpNlmZ4tIQ3rIivecTdQ2NDLzmWqfxVNd9EW69aSodTngAdqqO7zAAPJvztGyYxJ4pToy-PVLy9D6YgkLz0kwSxsWh1hBSiCsMKTQe5~FksU_; Key-Pair-Id=pub_wavve.skcdn.net
-https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000PM2/SDR_AVC-SD_ABR-TS-KO-221026000000.m3u8
 #EXTINF:-1 tvg-name="KBS-테스트" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS1.png" group-title="생방송-테스트",KBS -테스트
 http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
 #EXTINF:-1 tvg-name="KBS2-테스트" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/KBS2.png" group-title="생방송-테스트",KBS2 -테스트
@@ -351,10 +263,12 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 tvg-name="YBTV-2 汉语综合频道" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/YBTV-2%E6%B1%89%E8%AF%AD.png" group-title="연변방송",YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 최종회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 최종회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_최종회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="사랑이 온다 제30회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51865.jpg" group-title="드라마(다시보기)",사랑이 온다 제30회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제30회 26_11_14.m3u8
 #EXTINF:-1 tvg-name="라이어 제5회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52241.jpg" group-title="드라마(다시보기)",라이어 제5회 26/11/13
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제5회 26_11_13.m3u8
-#EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 제11회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 제11회 26/11/13
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_제11회 26_11_13.m3u8
 #EXTINF:-1 tvg-name="욕망의 덫 제57회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51899.jpg" group-title="드라마(다시보기)",욕망의 덫 제57회 26/11/13
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/욕망의 덫_제57회 26_11_13.m3u8
 #EXTINF:-1 tvg-name="엄마가 미쳤어요 제35회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52003.jpg" group-title="드라마(다시보기)",엄마가 미쳤어요 제35회 26/11/13
@@ -391,8 +305,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 2부.m3u8
 #EXTINF:-1 tvg-name="100일의 거짓말 제10회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52087.jpg" group-title="드라마(다시보기)",100일의 거짓말 제10회 26/11/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제10회 26_11_08.m3u8
-#EXTINF:-1 tvg-name="사랑이 온다 제29회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51865.jpg" group-title="드라마(다시보기)",사랑이 온다 제29회 26/11/08
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제29회 26_11_08.m3u8
 #EXTINF:-1 tvg-name="너에게 다이브 최종회 26/11/02" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 최종회 26/11/02
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_최종회 26_11_02.m3u8
 #EXTINF:-1 tvg-name="너 말고 다른 연애 최종회 26/11/01" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51956.jpg" group-title="드라마(다시보기)",너 말고 다른 연애 최종회 26/11/01
@@ -451,10 +363,12 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/킬러들의 쇼
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제102회 26_08_07.m3u8
 #EXTINF:-1 tvg-name="결혼의 완성 최종회 26/08/10" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51766.jpg" group-title="드라마(다시보기)",결혼의 완성 최종회 26/08/10
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/결혼의 완성_최종회 26_08_10.m3u8
+#EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 제11회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 제11회 26/11/13
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_제11회 26_11_13.m3u8
+#EXTINF:-1 tvg-name="사랑이 온다 제29회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51865.jpg" group-title="드라마(다시보기)",사랑이 온다 제29회 26/11/08
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제29회 26_11_08.m3u8
 #EXTINF:-1 tvg-name="라이어 제4회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52241.jpg" group-title="드라마(다시보기)",라이어 제4회 26/11/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제4회 26_11_08.m3u8
-#EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 제10회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 제10회 26/11/08
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_제10회 26_11_08.m3u8
 #EXTINF:-1 tvg-name="욕망의 덫 제56회 26/11/12" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51899.jpg" group-title="드라마(다시보기)",욕망의 덫 제56회 26/11/12
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/욕망의 덫_제56회 26_11_12.m3u8
 #EXTINF:-1 tvg-name="엄마가 미쳤어요 제34회 26/11/12" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52003.jpg" group-title="드라마(다시보기)",엄마가 미쳤어요 제34회 26/11/12
@@ -491,8 +405,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 1부.m3u8
 #EXTINF:-1 tvg-name="100일의 거짓말 제9회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52087.jpg" group-title="드라마(다시보기)",100일의 거짓말 제9회 26/11/07
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제9회 26_11_07.m3u8
-#EXTINF:-1 tvg-name="사랑이 온다 제28회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51865.jpg" group-title="드라마(다시보기)",사랑이 온다 제28회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제28회 26_11_07.m3u8
 #EXTINF:-1 tvg-name="너에게 다이브 제11회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제11회 26/10/31
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제11회 26_10_31.m3u8
 #EXTINF:-1 tvg-name="너 말고 다른 연애 제13회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51956.jpg" group-title="드라마(다시보기)",너 말고 다른 연애 제13회 26/10/31
@@ -549,6 +461,24 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/킬러들의 쇼
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제101회 26_08_06.m3u8
 #EXTINF:-1 tvg-name="결혼의 완성 제11회 26/08/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51766.jpg" group-title="드라마(다시보기)",결혼의 완성 제11회 26/08/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/결혼의 완성_제11회 26_08_08.m3u8
+#EXTINF:-1 tvg-name="놀면 뭐하니? 제366회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42290.jpg" group-title="예능(다시보기)",놀면 뭐하니? 제366회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀면 뭐하니__제366회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="불후의 명곡 제751회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/27472.jpg" group-title="예능(다시보기)",불후의 명곡 제751회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/불후의 명곡_제751회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="강철지구 제102회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/49454.jpg" group-title="예능(다시보기)",강철지구 제102회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강철지구_제102회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="도라이버 시즌6 제15회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51958.jpg" group-title="예능(다시보기)",도라이버 시즌6 제15회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/도라이버 시즌6_제15회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="숨바꼭질 2 (SUMBAKKOKJIL 2) 제7회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51924.jpg" group-title="예능(다시보기)",숨바꼭질 2 (SUMBAKKOKJIL 2) 제7회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/숨바꼭질 2 (SUMBAKKOKJIL 2)_제7회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="놀라운 토요일 제448회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/40131.jpg" group-title="예능(다시보기)",놀라운 토요일 제448회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제448회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="차트를 달리는 남자 제235회 25/12/20" tvg-logo="https://www.kdrama.pw/img/videos/200x285/44738.jpg" group-title="예능(다시보기)",차트를 달리는 남자 제235회 25/12/20
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차트를 달리는 남자_제235회 25_12_20.m3u8
+#EXTINF:-1 tvg-name="쇼! 음악중심 제391회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/27473.jpg" group-title="예능(다시보기)",쇼! 음악중심 제391회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쇼! 음악중심_제391회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="영민씨와 대단한 친구들 시즌2 제5회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52242.jpg" group-title="예능(다시보기)",영민씨와 대단한 친구들 시즌2 제5회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/영민씨와 대단한 친구들 시즌2_제5회 26_11_14.m3u8
 #EXTINF:-1 tvg-name="나 혼자 산다 제705회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/28292.jpg" group-title="예능(다시보기)",나 혼자 산다 제705회 26/11/14
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나 혼자 산다_제705회 26_11_14.m3u8
 #EXTINF:-1 tvg-name="나는 SOLO <나는 솔로> 제278회 26/11/11" tvg-logo="https://www.kdrama.pw/img/videos/200x285/45038.jpg" group-title="예능(다시보기)",나는 SOLO <나는 솔로> 제278회 26/11/11
@@ -719,8 +649,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/속풀이쇼 동
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 참견 시점_제426회 26_11_08.m3u8
 #EXTINF:-1 tvg-name="TV 동물농장 제449회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/28232.jpg" group-title="예능(다시보기)",TV 동물농장 제449회 26/11/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/TV 동물농장_제449회 26_11_08.m3u8
-#EXTINF:-1 tvg-name="도라이버 시즌6 제14회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51958.jpg" group-title="예능(다시보기)",도라이버 시즌6 제14회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/도라이버 시즌6_제14회 26_11_07.m3u8
 #EXTINF:-1 tvg-name="아는 형님 제240회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/46068.jpg" group-title="예능(다시보기)",아는 형님 제240회 26/11/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아는 형님_제240회 26_11_08.m3u8
 #EXTINF:-1 tvg-name="언포게터블 듀엣2 제2회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52230.jpg" group-title="예능(다시보기)",언포게터블 듀엣2 제2회 26/11/08
@@ -731,24 +659,26 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/니가 내라 �
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강적들_제438회 26_11_08.m3u8
 #EXTINF:-1 tvg-name="살림하는 남자들 시즌2 제436회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/37682.jpg" group-title="예능(다시보기)",살림하는 남자들 시즌2 제436회 26/11/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/살림하는 남자들 시즌2_제436회 26_11_08.m3u8
-#EXTINF:-1 tvg-name="놀라운 토요일 제447회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/40131.jpg" group-title="예능(다시보기)",놀라운 토요일 제447회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제447회 26_11_07.m3u8
-#EXTINF:-1 tvg-name="놀면 뭐하니? 제365회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42290.jpg" group-title="예능(다시보기)",놀면 뭐하니? 제365회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀면 뭐하니__제365회 26_11_07.m3u8
-#EXTINF:-1 tvg-name="강철지구 제101회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/49454.jpg" group-title="예능(다시보기)",강철지구 제101회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강철지구_제101회 26_11_07.m3u8
-#EXTINF:-1 tvg-name="불후의 명곡 제750회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/27472.jpg" group-title="예능(다시보기)",불후의 명곡 제750회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/불후의 명곡_제750회 26_11_07.m3u8
-#EXTINF:-1 tvg-name="차트를 달리는 남자 제235회 25/12/20" tvg-logo="https://www.kdrama.pw/img/videos/200x285/44738.jpg" group-title="예능(다시보기)",차트를 달리는 남자 제235회 25/12/20
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차트를 달리는 남자_제235회 25_12_20.m3u8
 #EXTINF:-1 tvg-name="뒤너쇼 제6회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52014.jpg" group-title="예능(다시보기)",뒤너쇼 제6회 26/11/07
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뒤너쇼_제6회 26_11_07.m3u8
+#EXTINF:-1 tvg-name="놀면 뭐하니? 제365회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42290.jpg" group-title="예능(다시보기)",놀면 뭐하니? 제365회 26/11/07
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀면 뭐하니__제365회 26_11_07.m3u8
+#EXTINF:-1 tvg-name="불후의 명곡 제750회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/27472.jpg" group-title="예능(다시보기)",불후의 명곡 제750회 26/11/07
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/불후의 명곡_제750회 26_11_07.m3u8
+#EXTINF:-1 tvg-name="강철지구 제101회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/49454.jpg" group-title="예능(다시보기)",강철지구 제101회 26/11/07
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강철지구_제101회 26_11_07.m3u8
+#EXTINF:-1 tvg-name="도라이버 시즌6 제14회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51958.jpg" group-title="예능(다시보기)",도라이버 시즌6 제14회 26/11/07
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/도라이버 시즌6_제14회 26_11_07.m3u8
+#EXTINF:-1 tvg-name="숨바꼭질 2 (SUMBAKKOKJIL 2) 제6회 26/11/01" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51924.jpg" group-title="예능(다시보기)",숨바꼭질 2 (SUMBAKKOKJIL 2) 제6회 26/11/01
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/숨바꼭질 2 (SUMBAKKOKJIL 2)_제6회 26_11_01.m3u8
+#EXTINF:-1 tvg-name="놀라운 토요일 제447회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/40131.jpg" group-title="예능(다시보기)",놀라운 토요일 제447회 26/11/07
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제447회 26_11_07.m3u8
+#EXTINF:-1 tvg-name="차트를 달리는 남자 제234회 25/12/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/44738.jpg" group-title="예능(다시보기)",차트를 달리는 남자 제234회 25/12/13
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차트를 달리는 남자_제234회 25_12_13.m3u8
 #EXTINF:-1 tvg-name="쇼! 음악중심 제390회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/27473.jpg" group-title="예능(다시보기)",쇼! 음악중심 제390회 26/11/07
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쇼! 음악중심_제390회 26_11_07.m3u8
-#EXTINF:-1 tvg-name="무엇이든 해줄지니 - 비서진 제10회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51979.jpg" group-title="예능(다시보기)",무엇이든 해줄지니 - 비서진 제10회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/무엇이든 해줄지니 - 비서진_제10회 26_11_07.m3u8
-#EXTINF:-1 tvg-name="비긴어게인 오픈마이크 제49회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/43990.jpg" group-title="예능(다시보기)",비긴어게인 오픈마이크 제49회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/비긴어게인 오픈마이크_제49회 26_11_07.m3u8
+#EXTINF:-1 tvg-name="영민씨와 대단한 친구들 시즌2 제4회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52242.jpg" group-title="예능(다시보기)",영민씨와 대단한 친구들 시즌2 제4회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/영민씨와 대단한 친구들 시즌2_제4회 26_11_14.m3u8
 #EXTINF:-1 tvg-name="나 혼자 산다 제704회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/28292.jpg" group-title="예능(다시보기)",나 혼자 산다 제704회 26/11/07
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나 혼자 산다_제704회 26_11_07.m3u8
 #EXTINF:-1 tvg-name="나는 SOLO <나는 솔로> 제277회 26/11/04" tvg-logo="https://www.kdrama.pw/img/videos/200x285/45038.jpg" group-title="예능(다시보기)",나는 SOLO <나는 솔로> 제277회 26/11/04
@@ -909,8 +839,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/속풀이쇼 동
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 참견 시점_제425회 26_11_01.m3u8
 #EXTINF:-1 tvg-name="TV 동물농장 제448회 26/11/01" tvg-logo="https://www.kdrama.pw/img/videos/200x285/28232.jpg" group-title="예능(다시보기)",TV 동물농장 제448회 26/11/01
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/TV 동물농장_제448회 26_11_01.m3u8
-#EXTINF:-1 tvg-name="도라이버 시즌6 제13회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51958.jpg" group-title="예능(다시보기)",도라이버 시즌6 제13회 26/10/31
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/도라이버 시즌6_제13회 26_10_31.m3u8
 #EXTINF:-1 tvg-name="아는 형님 제239회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/46068.jpg" group-title="예능(다시보기)",아는 형님 제239회 26/10/31
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아는 형님_제239회 26_10_31.m3u8
 #EXTINF:-1 tvg-name="언포게터블 듀엣2 제1회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52230.jpg" group-title="예능(다시보기)",언포게터블 듀엣2 제1회 26/10/31
@@ -921,24 +849,12 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/니가 내라 �
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강적들_제437회 26_10_31.m3u8
 #EXTINF:-1 tvg-name="살림하는 남자들 시즌2 제435회 26/11/01" tvg-logo="https://www.kdrama.pw/img/videos/200x285/37682.jpg" group-title="예능(다시보기)",살림하는 남자들 시즌2 제435회 26/11/01
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/살림하는 남자들 시즌2_제435회 26_11_01.m3u8
-#EXTINF:-1 tvg-name="놀라운 토요일 제446회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/40131.jpg" group-title="예능(다시보기)",놀라운 토요일 제446회 26/10/31
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제446회 26_10_31.m3u8
-#EXTINF:-1 tvg-name="놀면 뭐하니? 제364회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42290.jpg" group-title="예능(다시보기)",놀면 뭐하니? 제364회 26/10/31
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀면 뭐하니__제364회 26_10_31.m3u8
-#EXTINF:-1 tvg-name="강철지구 제100회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/49454.jpg" group-title="예능(다시보기)",강철지구 제100회 26/10/31
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강철지구_제100회 26_10_31.m3u8
-#EXTINF:-1 tvg-name="불후의 명곡 제749회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/27472.jpg" group-title="예능(다시보기)",불후의 명곡 제749회 26/10/31
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/불후의 명곡_제749회 26_10_31.m3u8
-#EXTINF:-1 tvg-name="차트를 달리는 남자 제234회 25/12/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/44738.jpg" group-title="예능(다시보기)",차트를 달리는 남자 제234회 25/12/13
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차트를 달리는 남자_제234회 25_12_13.m3u8
 #EXTINF:-1 tvg-name="뒤너쇼 제4회 26/10/09" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52014.jpg" group-title="예능(다시보기)",뒤너쇼 제4회 26/10/09
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뒤너쇼_제4회 26_10_09.m3u8
-#EXTINF:-1 tvg-name="쇼! 음악중심 제389회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/27473.jpg" group-title="예능(다시보기)",쇼! 음악중심 제389회 26/10/31
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쇼! 음악중심_제389회 26_10_31.m3u8
-#EXTINF:-1 tvg-name="무엇이든 해줄지니 - 비서진 제9회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51979.jpg" group-title="예능(다시보기)",무엇이든 해줄지니 - 비서진 제9회 26/10/31
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/무엇이든 해줄지니 - 비서진_제9회 26_10_31.m3u8
-#EXTINF:-1 tvg-name="비긴어게인 오픈마이크 제48회 26/10/11" tvg-logo="https://www.kdrama.pw/img/videos/200x285/43990.jpg" group-title="예능(다시보기)",비긴어게인 오픈마이크 제48회 26/10/11
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/비긴어게인 오픈마이크_제48회 26_10_11.m3u8
+#EXTINF:-1 tvg-name="네버 서렌더 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52283.jpg" group-title="영화",네버 서렌더 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/네버 서렌더_본편.m3u8
+#EXTINF:-1 tvg-name="스트리트 파이터 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52282.jpg" group-title="영화",스트리트 파이터 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스트리트 파이터_본편.m3u8
 #EXTINF:-1 tvg-name="타짜: 벨제붑의 노래 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52276.jpg" group-title="영화",타짜: 벨제붑의 노래 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/타짜_ 벨제붑의 노래_본편.m3u8
 #EXTINF:-1 tvg-name="표인: 풍기대막 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52269.jpg" group-title="영화",표인: 풍기대막 본편
@@ -1135,10 +1051,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/여름날의 레
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/잠금_ 셧다운_본편.m3u8
 #EXTINF:-1 tvg-name="현재를 위하여 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51875.jpg" group-title="영화",현재를 위하여 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/현재를 위하여_본편.m3u8
-#EXTINF:-1 tvg-name="옵세션 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51871.jpg" group-title="영화",옵세션 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/옵세션_본편.m3u8
-#EXTINF:-1 tvg-name="백룸 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51764.jpg" group-title="영화",백룸 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/백룸_본편.m3u8
 #EXTINF:-1 tvg-name="데드 캠프  (모음) 6 본편" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52146.jpg" group-title="영화",데드 캠프  (모음) 6 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/데드 캠프  (모음)_6 본편.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1

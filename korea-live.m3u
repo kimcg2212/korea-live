@@ -263,6 +263,10 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 tvg-name="YBTV-2 汉语综合频道" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/YBTV-2%E6%B1%89%E8%AF%AD.png" group-title="연변방송",YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 tvg-name="100일의 거짓말 제11회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52087.jpg" group-title="드라마(다시보기)",100일의 거짓말 제11회 26/11/14
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제11회 26_11_14.m3u8
+#EXTINF:-1 tvg-name="문무 스페셜 2부" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52223.jpg" group-title="드라마(다시보기)",문무 스페셜 2부
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 2부.m3u8
 #EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 최종회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 최종회 26/11/14
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_최종회 26_11_14.m3u8
 #EXTINF:-1 tvg-name="사랑이 온다 제30회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51865.jpg" group-title="드라마(다시보기)",사랑이 온다 제30회 26/11/14
@@ -301,10 +305,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나의 유죄인
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제6회 26_11_09.m3u8
 #EXTINF:-1 tvg-name="파이널 테이블 제6회 26/11/09" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52165.jpg" group-title="드라마(다시보기)",파이널 테이블 제6회 26/11/09
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제6회 26_11_09.m3u8
-#EXTINF:-1 tvg-name="문무 스페셜 2부" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52223.jpg" group-title="드라마(다시보기)",문무 스페셜 2부
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 2부.m3u8
-#EXTINF:-1 tvg-name="100일의 거짓말 제10회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52087.jpg" group-title="드라마(다시보기)",100일의 거짓말 제10회 26/11/08
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제10회 26_11_08.m3u8
 #EXTINF:-1 tvg-name="너에게 다이브 최종회 26/11/02" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 최종회 26/11/02
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_최종회 26_11_02.m3u8
 #EXTINF:-1 tvg-name="너 말고 다른 연애 최종회 26/11/01" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51956.jpg" group-title="드라마(다시보기)",너 말고 다른 연애 최종회 26/11/01
@@ -363,6 +363,10 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/킬러들의 쇼
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제102회 26_08_07.m3u8
 #EXTINF:-1 tvg-name="결혼의 완성 최종회 26/08/10" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51766.jpg" group-title="드라마(다시보기)",결혼의 완성 최종회 26/08/10
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/결혼의 완성_최종회 26_08_10.m3u8
+#EXTINF:-1 tvg-name="100일의 거짓말 제10회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52087.jpg" group-title="드라마(다시보기)",100일의 거짓말 제10회 26/11/08
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제10회 26_11_08.m3u8
+#EXTINF:-1 tvg-name="문무 스페셜 1부" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52223.jpg" group-title="드라마(다시보기)",문무 스페셜 1부
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 1부.m3u8
 #EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 제11회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 제11회 26/11/13
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_제11회 26_11_13.m3u8
 #EXTINF:-1 tvg-name="사랑이 온다 제29회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51865.jpg" group-title="드라마(다시보기)",사랑이 온다 제29회 26/11/08
@@ -401,10 +405,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나의 유죄인
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제5회 26_11_08.m3u8
 #EXTINF:-1 tvg-name="파이널 테이블 제5회 26/11/08" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52165.jpg" group-title="드라마(다시보기)",파이널 테이블 제5회 26/11/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제5회 26_11_08.m3u8
-#EXTINF:-1 tvg-name="문무 스페셜 1부" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52223.jpg" group-title="드라마(다시보기)",문무 스페셜 1부
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 1부.m3u8
-#EXTINF:-1 tvg-name="100일의 거짓말 제9회 26/11/07" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52087.jpg" group-title="드라마(다시보기)",100일의 거짓말 제9회 26/11/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제9회 26_11_07.m3u8
 #EXTINF:-1 tvg-name="너에게 다이브 제11회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제11회 26/10/31
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제11회 26_10_31.m3u8
 #EXTINF:-1 tvg-name="너 말고 다른 연애 제13회 26/10/31" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51956.jpg" group-title="드라마(다시보기)",너 말고 다른 연애 제13회 26/10/31

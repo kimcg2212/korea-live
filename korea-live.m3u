@@ -351,6 +351,8 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 tvg-name="YBTV-2 汉语综合频道" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/YBTV-2%E6%B1%89%E8%AF%AD.png" group-title="연변방송",YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 tvg-name="파이널 테이블 제9회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52165.jpg" group-title="드라마(다시보기)",파이널 테이블 제9회 26/11/21
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제9회 26_11_21.m3u8
 #EXTINF:-1 tvg-name="라이어 제8회 26/11/22" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52241.jpg" group-title="드라마(다시보기)",라이어 제8회 26/11/22
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제8회 26_11_22.m3u8
 #EXTINF:-1 tvg-name="굿파트너2 제2회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52226.jpg" group-title="드라마(다시보기)",굿파트너2 제2회 26/11/21
@@ -391,8 +393,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나의 유죄인
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유일무이 로맨스_제4회 26_11_16.m3u8
 #EXTINF:-1 tvg-name="밑도 끝도 없이, 너다 제8회 26/11/15" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52092.jpg" group-title="드라마(다시보기)",밑도 끝도 없이, 너다 제8회 26/11/15
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제8회 26_11_15.m3u8
-#EXTINF:-1 tvg-name="파이널 테이블 제8회 26/11/15" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52165.jpg" group-title="드라마(다시보기)",파이널 테이블 제8회 26/11/15
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제8회 26_11_15.m3u8
 #EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 최종회 26/11/14" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 최종회 26/11/14
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_최종회 26_11_14.m3u8
 #EXTINF:-1 tvg-name="옆자리, 프란체스카 최종회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52257.jpg" group-title="드라마(다시보기)",옆자리, 프란체스카 최종회 26/11/13
@@ -451,6 +451,8 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/한반도-격동
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오싹한 연애_최종회 26_08_23.m3u8
 #EXTINF:-1 tvg-name="그대에게 드림 최종회 26/08/18" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51863.jpg" group-title="드라마(다시보기)",그대에게 드림 최종회 26/08/18
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_최종회 26_08_18.m3u8
+#EXTINF:-1 tvg-name="파이널 테이블 제8회 26/11/15" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52165.jpg" group-title="드라마(다시보기)",파이널 테이블 제8회 26/11/15
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제8회 26_11_15.m3u8
 #EXTINF:-1 tvg-name="라이어 제7회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52241.jpg" group-title="드라마(다시보기)",라이어 제7회 26/11/21
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제7회 26_11_21.m3u8
 #EXTINF:-1 tvg-name="굿파트너2 제1회 26/11/20" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52226.jpg" group-title="드라마(다시보기)",굿파트너2 제1회 26/11/20
@@ -491,8 +493,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나의 유죄인
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유일무이 로맨스_제3회 26_11_16.m3u8
 #EXTINF:-1 tvg-name="밑도 끝도 없이, 너다 제7회 26/11/15" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52092.jpg" group-title="드라마(다시보기)",밑도 끝도 없이, 너다 제7회 26/11/15
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밑도 끝도 없이, 너다_제7회 26_11_15.m3u8
-#EXTINF:-1 tvg-name="파이널 테이블 제7회 26/11/15" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52165.jpg" group-title="드라마(다시보기)",파이널 테이블 제7회 26/11/15
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이널 테이블_제7회 26_11_15.m3u8
 #EXTINF:-1 tvg-name="닥터X : 하얀 마피아의 시대 제11회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52090.jpg" group-title="드라마(다시보기)",닥터X : 하얀 마피아의 시대 제11회 26/11/13
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_제11회 26_11_13.m3u8
 #EXTINF:-1 tvg-name="옆자리, 프란체스카 제3회 26/11/13" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52257.jpg" group-title="드라마(다시보기)",옆자리, 프란체스카 제3회 26/11/13

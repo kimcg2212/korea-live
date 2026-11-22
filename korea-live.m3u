@@ -351,6 +351,8 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 tvg-name="YBTV-2 汉语综合频道" tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/YBTV-2%E6%B1%89%E8%AF%AD.png" group-title="연변방송",YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 tvg-name="라이어 제8회 26/11/22" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52241.jpg" group-title="드라마(다시보기)",라이어 제8회 26/11/22
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제8회 26_11_22.m3u8
 #EXTINF:-1 tvg-name="굿파트너2 제2회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52226.jpg" group-title="드라마(다시보기)",굿파트너2 제2회 26/11/21
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/굿파트너2_제2회 26_11_21.m3u8
 #EXTINF:-1 tvg-name="사랑이 온다 제32회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51865.jpg" group-title="드라마(다시보기)",사랑이 온다 제32회 26/11/21
@@ -361,8 +363,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_제3회 26_11_21.m3u8
 #EXTINF:-1 tvg-name="푸른길 최종회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52307.jpg" group-title="드라마(다시보기)",푸른길 최종회 26/11/21
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/푸른길_최종회 26_11_21.m3u8
-#EXTINF:-1 tvg-name="라이어 제7회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52241.jpg" group-title="드라마(다시보기)",라이어 제7회 26/11/21
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제7회 26_11_21.m3u8
 #EXTINF:-1 tvg-name="가족관계증명서 제85회 26/11/20" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51816.jpg" group-title="드라마(다시보기)",가족관계증명서 제85회 26/11/20
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가족관계증명서_제85회 26_11_20.m3u8
 #EXTINF:-1 tvg-name="엄마가 미쳤어요 제40회 26/11/20" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52003.jpg" group-title="드라마(다시보기)",엄마가 미쳤어요 제40회 26/11/20
@@ -451,6 +451,8 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/한반도-격동
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오싹한 연애_최종회 26_08_23.m3u8
 #EXTINF:-1 tvg-name="그대에게 드림 최종회 26/08/18" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51863.jpg" group-title="드라마(다시보기)",그대에게 드림 최종회 26/08/18
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_최종회 26_08_18.m3u8
+#EXTINF:-1 tvg-name="라이어 제7회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52241.jpg" group-title="드라마(다시보기)",라이어 제7회 26/11/21
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제7회 26_11_21.m3u8
 #EXTINF:-1 tvg-name="굿파트너2 제1회 26/11/20" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52226.jpg" group-title="드라마(다시보기)",굿파트너2 제1회 26/11/20
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/굿파트너2_제1회 26_11_20.m3u8
 #EXTINF:-1 tvg-name="사랑이 온다 제31회 26/11/15" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51865.jpg" group-title="드라마(다시보기)",사랑이 온다 제31회 26/11/15
@@ -461,8 +463,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 2부.m3u8
 #EXTINF:-1 tvg-name="푸른길 제7회 26/11/21" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52307.jpg" group-title="드라마(다시보기)",푸른길 제7회 26/11/21
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/푸른길_제7회 26_11_21.m3u8
-#EXTINF:-1 tvg-name="라이어 제6회 26/11/15" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52241.jpg" group-title="드라마(다시보기)",라이어 제6회 26/11/15
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제6회 26_11_15.m3u8
 #EXTINF:-1 tvg-name="가족관계증명서 제84회 26/11/19" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51816.jpg" group-title="드라마(다시보기)",가족관계증명서 제84회 26/11/19
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가족관계증명서_제84회 26_11_19.m3u8
 #EXTINF:-1 tvg-name="엄마가 미쳤어요 제39회 26/11/19" tvg-logo="https://www.kdrama.pw/img/videos/200x285/52003.jpg" group-title="드라마(다시보기)",엄마가 미쳤어요 제39회 26/11/19
